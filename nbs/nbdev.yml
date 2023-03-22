@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "adventure_business"
+  site-url: "https://hgzech.github.io/adventure_business"
+  description: "The github project for our adventure business"
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/adventure_business"
